@@ -8,7 +8,6 @@
 .container {
   display: flex;
   flex-flow: column nowrap;
-  outline: 5px solid white;
   background-color: white;
   width: 450px;
   height: 700px;
